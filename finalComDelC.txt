@@ -1,0 +1,27 @@
+#include<stdio.h>
+
+int main(){
+    
+    int a12_67 = 3, b = 5, loop;
+    float var = 9.0;
+    bool isReady = true, isGone = false;
+    char ch = 'x', ch_n = 'y';
+    int n = a12 + 40.0;
+    if(a12 == b){
+        printf("Yes");
+    }
+    else if(a12 > 100){
+        printf("No");
+    }
+    
+    for(int i = 0; i < 3; i++){
+        printf(i);
+    }
+
+    if(a == c){
+        a += c;
+    }
+    int sum;
+    
+    return 0;
+}
